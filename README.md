@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-#Universidad Peruana de Ciencias Aplicadas 
+# Universidad Peruana de Ciencias Aplicadas 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC" width="200">  
 
