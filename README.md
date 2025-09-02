@@ -1,7 +1,6 @@
-# Pruebas-archivos-md
-<div align="center">
+# Informe del Trabajo Final
 
-# Informe del Trabajo Final  
+<div align="center">  
 
 **Universidad Peruana de Ciencias Aplicadas**  
 
