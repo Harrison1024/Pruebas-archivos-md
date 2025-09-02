@@ -1,31 +1,52 @@
+<div align="center">
+
 # Informe del Trabajo Final
 
-<div align="center">  
+### Universidad Peruana de Ciencias Aplicadas
 
-# Universidad Peruana de Ciencias Aplicadas 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC" width="250">  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC" width="200">  
+**CARRERA** </br> Ingeniería de Software 
 
-**Ingeniería de software**  
+**CICLO** </br> 2025-02
 
-**Aplicaciones Web**  
+**CURSO** </br> Desarrollo de Aplicaciones Open Source
 
-**Sección:** 7420  
+**NRC** </br> 7369
 
-**Profesor:** Alex Humberto Sanchez  
+**DOCENTE** </br> Wilder Julio Espinoza Bravo
 
-**Nombre del StartUp:** SendiFi  
+### "INFORME DE TRABAJO FINAL"
 
-**Nombre del Producto:** Horizon  
+**STARTUP** </br> Kashu
 
-| Nombre                            | Código     |
-| --------------------------------- | ---------- |
-| Aguirre Eneque, Joan Elias        | U202313655 |
-| Esquirva León, Miguel Juan Diego  | U202019449 |
-| Osores Marchese, Pietro           | U202312391 |
-| Payesa Torres, Harrison Hubert    | U202313397 |
-| Cossar Sanchez, Eduardo Jose      | U202312109 |
+**PRODUCTO** </br> TuCash
 
-**Ciclo 2025-02**
+| Nombre |Código|
+|:-------:|:----------:|
+| Taquiri Calderon, Jhunior Giussepe | u20221c576|
+| Payesa Torres, Harrison Hubert | u2022201024|
+| Mondoñedo Rodriguez, Juan Diego Javier | u202110373 |
+| Mejia Poma, Patricia Valeria | u202523271 |
+
+</br>
+</br>
+
+**AGOSTO 2025**
 
 </div>
+
+---
+
+## Registro de Versiones del Informe
+
+| Versión               | Fecha    | Autores         | Descripción de Modificación                  |
+|-----------------------|----------|-----------------|----------------------------------------------|
+| |  |  | Se realizó:<br> - El README <br> - Startup Profile <br> - Solution Profile <br> - Segmentos Objetivos |
+
+## Project Report Collaboration Insights
+
+El siguiente enlace es nuestra organización pública: github-link
+Aquí se encuentra el resultado del Project Report de la entrega correspondiente.
+A continuación, se explicará todo a cerca del desarrollo de actividades para la elaboración del informe junto con capturas de los analíticos de colaboración y commits en Github:
+
